@@ -45,9 +45,7 @@ The convention for naming packages in go is to have the name of the package be t
 ```
 
 
-*Continue*
-
-[Imports and Exports](https://github.com/MathewBravo/The-Go-Bible/blob/main/Before%20The%20Code/002%20Imports%20and%20Exports.md)
+*Continue* [Imports and Exports](https://github.com/MathewBravo/The-Go-Bible/blob/main/Before%20The%20Code/002%20Imports%20and%20Exports.md)
 
 
 
