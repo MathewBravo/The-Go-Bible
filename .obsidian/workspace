@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "0429a13ed0372082",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1b3819e00a1f58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Before The Code/Packages and Imports.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee112883ab1e3035",
+    "type": "split",
+    "children": [
+      {
+        "id": "bceddf3e1719fa7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065b3eba36930445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d145dc7a44e418b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26fa1791afdbf752",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fdf0e197d1eef90",
+    "type": "split",
+    "children": [
+      {
+        "id": "39554348a1064a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4974c6e98bde2ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Before The Code/Packages and Imports.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71fdc1676f41d155",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Before The Code/Packages and Imports.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faf5a30f61d57188",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ef5e208c2a8e941",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Before The Code/Packages and Imports.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "065b3eba36930445",
+  "lastOpenFiles": [
+    "Before The Code/Packages and Imports.md",
+    "Before The Code/Intro.md",
+    "Hello, World!.md"
+  ]
+}
