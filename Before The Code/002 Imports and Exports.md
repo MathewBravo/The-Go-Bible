@@ -47,3 +47,4 @@ func main(){
 ## Exports
 Unlike languages that explicitly declare exports, Go uses capitalization of works to specify their use as exported names. In the above examples within the `fmt` package `Println(...)` is capitalized and thus is exported from the package. Any names within a package that are not capitalized are not accessible from outside the scope of that package. 
 
+*Continue* [Data Types](https://github.com/MathewBravo/The-Go-Bible/blob/main/Before%20The%20Code/003%20Data%20Types.md)
